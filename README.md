@@ -10,6 +10,12 @@
 
 ---
 
+## 🌐 在线阅读
+
+> ### 👉 <https://if-link-tech-team.github.io/seu-survival-guide-2.0/>
+>
+> 推荐在 **GitHub Pages 阅读站点** 浏览：侧边栏目录 + 实时搜索 + 原文插图即时渲染，体验最佳。
+
 ## ⚖️ 版权与授权声明
 
 > **本仓库内容由 IF.Link 社区（[IF-Link-Tech-Team](https://github.com/IF-Link-Tech-Team)）经原作者团队正式授权后转载整理。**
